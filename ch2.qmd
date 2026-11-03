@@ -1,0 +1,13 @@
+---
+title: "rdss ch2"
+---
+
+# What is a research design?
+
+- A *procedure* for answering a research question
+- A design can be
+  - Strong (answer captures the essence of the 'target')
+  - Weak (answer is irrelevant/misleading)
+- 
+
+# MIDA
